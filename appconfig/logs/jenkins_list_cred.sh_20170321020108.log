@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------------
+-                           jenkins_list_cred.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+===========================================================================================
+Domain                               (global)
+Description                          
+# of Credentials                     10
+===========================================================================================
+Id                                   Name
+==================================== ======================================================
+test                                 divesh/****** (tester)
+jenkins-slave-password               root/****** (Jenkis Slave with Password Configuration)
+id_demo                              demo_user/****** (id_desc)
+jenkins-git-key                      jenkins (jenkins_id_rsa)
+ID_demo                              goyalbhawna1985@gmail.com (Desc_demo)
+MY_TENANT_ID                         MY_TENANT_ID (demo_desc)
+db2f9c14-513a-497a-8e92-f89c5586aea9 db2f9c14-513a-497a-8e92-f89c5586aea9 (docker_cert_dir)
+docker_auth                          docker_auth (docker_auth)
+cred_sec_file                        test.groovy (cred_sec_file)
+cred_text                            cred_text
+===========================================================================================
+
+=================
+Domain           digi_cred
+Description      digi_cred
+# of Credentials 0
+=================
+Id               Name
+================ 
+=================
+
+                                                                             

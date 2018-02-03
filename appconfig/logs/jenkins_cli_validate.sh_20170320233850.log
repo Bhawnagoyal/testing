@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------
+-                           jenkins_cli_validate.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+Current Jenkins Session iD
+089c8da0
+                                                                             

@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_cred_ssh_user_pvtkey.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  			-> http://jenkins.server:8080/
+ - Jenkins User    		-> bhawna
+ - Credential ID    	-> jenkins1
+ - Credential description    -> SSH key Desc
+ - Credential username    	-> jen_rsa
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding SSH User with Private Key.....
+jenkins1                             jen_rsa (SSH key Desc)
+																																									

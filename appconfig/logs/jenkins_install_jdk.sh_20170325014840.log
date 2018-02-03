@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+-                           jenkins_install_jdk.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding JDK Installation ORACLE_JDK.....
+org.kohsuke.stapler.HttpRedirect
+OK - Oracle Credentials Updated
+OK - Oracle JDK Installation Updated
+																																									
+Adding JDK Installation LOCAL_JDK.....
+OK - JDK Installation Updated
+																																									

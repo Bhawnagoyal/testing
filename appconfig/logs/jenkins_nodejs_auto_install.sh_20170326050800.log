@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_nodejs_auto_install.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding NodeJS Installation.....
+OK - NodeJs Installation
+																																									

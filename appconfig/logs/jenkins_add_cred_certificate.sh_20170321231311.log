@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_cred_certificate.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding Master Certificate demo_desc1.....
+0fa291fa-6cd2-4485-bccc-3204151bcd29 Certificate (demo_desc1)
+																																									
+Adding Master Certificate demo_desc2.....
+d7ff82ea-d985-4a08-b6d8-587c81bbc2c3 Certificate (demo_desc2)
+																																									
+Uploading Certificate demo_desc3.....
+a1c63364-3ae5-4ec0-b0cc-be28351b0caf Certificate (demo_desc3)
+																																									
+Uploading Certificate demo_desc4.....
+183f8d06-9911-411f-a8a4-3e6aed23525d Certificate (demo_desc4)
+																																									

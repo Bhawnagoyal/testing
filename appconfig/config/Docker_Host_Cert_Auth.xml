@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkinsci.plugins.docker.commons.credentials.DockerServerCredentials plugin="docker-commons@1.6">
+    <scope>GLOBAL</scope>
+    <id>docker1_auth</id>
+    <description>docker_auth_demo</description>
+    <clientKey>xyz</clientKey>
+    <clientCertificate>demo_cert1</clientCertificate>
+    <serverCaCertificate>demo_CA1</serverCaCertificate>
+</org.jenkinsci.plugins.docker.commons.credentials.DockerServerCredentials>

@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------
+-                           jenkins_create_pipeline_git.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Creating Jenkins Pipeline with Description- Execute Pipeline using code from git github bitbucket, Build using maven, Storing and using the artefacts on Nexus Jfrog-Artefactory Docker-Hub, deploy web application to Apache jBoss, code analysis using codesonar eslint, testing using junit selenium owasp and email notification on success or failure.....
+                                                        
+Pipeline - pipeline-git created succesfully
+                                                        
+List of Available Pipeline and Jobs in Jenkins as below:
+digi
+pipeline-git
+pipeline1
+pipeline2
+pipeline3
+test
+                                                                             

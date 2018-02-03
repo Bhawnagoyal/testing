@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_cred_azure.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding AZURE Credentials with Description- Azure_demo_desc....
+MY_TENANT_ID1                        MY_TENANT_ID1 (Azure_demo_desc)
+                                                                             

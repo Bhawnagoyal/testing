@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_docker_cert_dir.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding Docker Certificate Directory Credentials with Description- docker_cert_dir1....
+Cert_Dir                             Cert_Dir (docker_cert_dir1)
+                                                                             

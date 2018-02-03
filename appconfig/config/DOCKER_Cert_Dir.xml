@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.nirima.jenkins.plugins.docker.utils.DockerDirectoryCredentials plugin="docker-plugin@0.16.2">
+    <scope>GLOBAL</scope>
+    <id>Cert_Dir</id>
+    <description>docker_cert_dir1</description>
+    <path>/tmp/docker1</path>
+</com.nirima.jenkins.plugins.docker.utils.DockerDirectoryCredentials>

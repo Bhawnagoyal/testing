@@ -1,0 +1,132 @@
+-----------------------------------------------------------------------------
+-                           jenkins_plugin_upload.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+                                                                             
+Total Plugins to be uploaded/verified 29
+Uploading/Verifying Plugins ....
+                                                                             
+ssh-credentials                 SSH Credentials Plugin                                           1.13
+ssh-credentials Plugin Exist
+                                                                             
+                                                                             
+docker-commons                  Docker Commons Plugin                                            1.6
+docker-commons Plugin Exist
+                                                                             
+                                                                             
+plain-credentials               Plain Credentials Plugin                                         1.4
+plain-credentials Plugin Exist
+                                                                             
+                                                                             
+ldap                            LDAP Plugin                                                      1.14 (1.15)
+ldap Plugin Exist
+                                                                             
+                                                                             
+credentials-binding             Credentials Binding Plugin                                       1.10 (1.11)
+credentials-binding Plugin Exist
+                                                                             
+                                                                             
+scriptler                       Scriptler                                                        2.9
+scriptler Plugin Exist
+                                                                             
+                                                                             
+azure-credentials               Azure Credentials                                                1.0
+azure-credentials Plugin Exist
+                                                                             
+                                                                             
+jackson2-api                    Jackson 2 API Plugin                                             2.7.3
+jackson2-api Plugin Exist
+                                                                             
+                                                                             
+aws-java-sdk                    Amazon Web Services SDK                                          1.11.68 (1.11.119)
+aws-java-sdk Plugin Exist
+                                                                             
+                                                                             
+aws-credentials                 CloudBees Amazon Web Services Credentials Plugin                 1.19
+aws-credentials Plugin Exist
+                                                                             
+                                                                             
+ec2                             Amazon EC2 plugin                                                1.36
+ec2 Plugin Exist
+                                                                             
+                                                                             
+docker-plugin                   Docker plugin                                                    0.16.2
+docker-plugin Plugin Exist
+                                                                             
+                                                                             
+groovy                          Groovy                                                           1.30 (2.0)
+groovy Plugin Exist
+                                                                             
+                                                                             
+nodejs                          NodeJS Plugin                                                    1.1.3 (1.2.1)
+nodejs Plugin Exist
+                                                                             
+                                                                             
+mesos                           mesos                                                            0.14.1
+mesos Plugin Exist
+                                                                             
+                                                                             
+bitbucket                       Bitbucket Plugin                                                 1.1.5
+bitbucket Plugin Exist
+                                                                             
+                                                                             
+junit                           JUnit Plugin                                                     1.20
+junit Plugin Exist
+                                                                             
+                                                                             
+dependency-check-jenkins-plugin OWASP Dependency-Check Plugin                                    1.4.5
+dependency-check-jenkins-plugin Plugin Exist
+                                                                             
+                                                                             
+nexus-artifact-uploader         Nexus Artifact Uploader                                          2.9
+nexus-artifact-uploader Plugin Exist
+                                                                             
+                                                                             
+artifactory                     Artifactory Plugin                                               2.10.4
+artifactory Plugin Exist
+                                                                             
+                                                                             
+docker-build-publish            CloudBees Docker Build and Publish plugin                        1.3.2
+docker-build-publish Plugin Exist
+                                                                             
+                                                                             
+dockerhub-notification          CloudBees Docker Hub/Registry Notification                       2.2.0
+dockerhub-notification Plugin Exist
+                                                                             
+                                                                             
+codesonar                       CodeSonar Plugin                                                 2.0.5 (cf87a)
+codesonar Plugin Exist
+                                                                             
+                                                                             
+jboss                           JBoss Management Plugin                                          1.0.5
+jboss Plugin Exist
+                                                                             
+                                                                             
+capitomcat                      Capitomcat Plugin                                                0.1.0
+capitomcat Plugin Exist
+                                                                             
+                                                                             
+checkstyle                      Checkstyle Plug-in                                               3.48
+checkstyle Plugin Exist
+                                                                             
+                                                                             
+selenium-aes                    Selenium Auto Exec Server(AES) plugin                            0.5
+selenium-aes Plugin Exist
+                                                                             
+                                                                             
+seleniumhtmlreport              Selenium HTML report                                             1.0
+seleniumhtmlreport Plugin Exist
+                                                                             
+                                                                             
+deploy Plugin Does not Exist
+Uploading Plugin : deploy
+Installing deploy from update center
+deploy                          Deploy to container Plugin                                       1.10
+                                                                             
+                                                                             

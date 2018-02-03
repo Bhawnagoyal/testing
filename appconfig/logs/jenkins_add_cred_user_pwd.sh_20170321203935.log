@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_cred_user_pwd.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding User demo_user1.....
+demo_id1                             demo_user1/****** (demo_desc1)
+																																									
+Adding User demo_user2.....
+demo_id2                             demo_user2/****** (demo_desc2)
+																																									
+Adding User demo_user3.....
+demo_id3                             demo_user3/****** (demo_desc3)
+																																									

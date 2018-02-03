@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_set_slave_port.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Setting Slave Agent Port .....
+OK - Jenkins Slave Agent port Updated
+																																									

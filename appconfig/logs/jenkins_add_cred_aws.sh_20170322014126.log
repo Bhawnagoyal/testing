@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_cred_aws.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding AWS Credentials with aws_Desc_demo1....
+ID_demo1                             bhawna@gmail.com:a (aws_Desc_demo1)
+                                                                             

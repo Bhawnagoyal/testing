@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------
+-                           jenkins_add_docker_host_cert_auth.sh                                  -
+-----------------------------------------------------------------------------
+ Parameters Entered:
+ - Jenkins URL  		-> http://jenkins.server:8080/
+ - Jenkins User    	-> bhawna
+-----------------------------------------------------------------------------
+                                                                             
+Current Jenkins Version
+2.32.3
+																																									
+Adding Docker Host Certificate Directory with Description- docker_auth_demo....
+docker1_auth                         docker1_auth (docker_auth_demo)
+                                                                             
